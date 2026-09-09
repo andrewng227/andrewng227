@@ -1,9 +1,19 @@
 <div align="center">
 
-  <!-- Spider-Man: Brand New Day Sunrise Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb703,30:e63946,65:1d3557,100:00e5ff&height=230&section=header&text=%E2%9C%A7%20NGUY%E1%BB%85N%20ANH%20TU%E1%BA%A5N%20%E2%9C%A7&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Spider-Man%3A%20Brand%20New%20Day%20%E2%80%A2%20Sophomore%20%40%20Van%20Lang%20University&descFontSize=16&descAlignY=60" width="100%"/>
+  <table border="0" style="width: 100%; border-collapse: collapse; border: none; background: transparent;">
+    <tr style="border: none;">
+      <td width="30%" align="center" valign="middle" style="border: none;">
+        <!-- Spider-Man đứng cực ngầu bên trong khung tên -->
+        <img src="https://media.giphy.com/media/xTiTnIByhw6hCJi58Y/giphy.gif" width="160" style="border-radius: 12px; filter: drop-shadow(0 0 15px rgba(230, 57, 70, 0.6));" alt="Spider-Man Giftober" />
+      </td>
+      <td width="70%" align="left" valign="middle" style="border: none;">
+        <!-- Banner Tên với Font chữ chuẩn hỗ trợ trọn vẹn tiếng Việt không bị lỗi dấu -->
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffb703,35:e63946,70:1d3557,100:00e5ff&height=180&section=header&text=NGUYỄN%20ANH%20TUẤN&fontSize=34&fontColor=ffffff&fontAlign=center&fontAlignY=38&desc=Spider-Man%3A%20Brand%20New%20Day%20•%20Sophomore%20@%20Van%20Lang%20University&descFontSize=15&descAlignY=62" width="100%"/>
+      </td>
+    </tr>
+  </table>
 
-  <!-- High-Tech Orbitron Typing SVG -->
+  <!-- Brand New Day Typing Animation SVG -->
   <a href="https://github.com/andrewng227">
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=19&duration=2800&pause=1000&color=FFB703&center=true&vCenter=true&width=700&lines=%E2%98%80%EF%B8%8F+Every+dawn+brings+a+Brand+New+Day+to+build;%F0%9F%95%B8%EF%B8%8F+Your+Friendly+Neighborhood+Developer;%E2%9C%A7+Sinh+vi%C3%AAn+n%C4%83m+2+%C4%90%E1%BA%A1i+h%E1%BB%8Dc+V%C4%83n+Lang+(VLU);%F0%9F%95%B7%EF%B8%8F+Swinging+through+code,+crafting+foundations;%E2%9A%A1+A+fresh+start,+infinite+possibilities." alt="Brand New Day Typing" />
   </a>
