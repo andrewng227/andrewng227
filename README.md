@@ -1,91 +1,79 @@
 <div align="center">
 
-  <!-- Holographic Futuristic Dynamic Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,12,24,30&height=220&section=header&text=✦%20ANDREW%20NGUYEN%20✦&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Nguyễn%20Anh%20Tuấn%20•%20Sophomore%20@%20Van%20Lang%20University&descFontSize=15&descAlignY=60" width="100%"/>
+  <!-- Aesthetic Header Animation Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=230&section=header&text=Nguy%E1%BB%85n%20Anh%20Tu%E1%BA%A5n%20%E2%9C%A8&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Andrew%20Nguyen%20%E2%80%A2%20Sophomore%20%40%20Van%20Lang%20University&descFontSize=16&descAlignY=60" width="100%"/>
 
-  <!-- High-velocity Multi-layer Typing SVG -->
+  <!-- Aesthetic JetBrains Mono Typing -->
   <a href="https://github.com/andrewng227">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=19&duration=2400&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=%E2%96%B6+SYSTEM+ONLINE%3A+Andrew+Nguyen+(Nguy%E1%BB%85n+Anh+Tu%E1%BA%A5n);%E2%96%B6+ACADEMIC_NODE%3A+Van+Lang+University+(VLU)+-+Year+02;%E2%96%B6+EXPLORING%3A+Software+Architecture+%26+Next-Gen+Tech;%E2%96%B6+CORE_DRIVE%3A+Transforming+Curiosity+Into+Impact." alt="Holographic Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=650&lines=%E2%98%95+Brewing+code+with+curiosity+%26+passion;%E2%9C%A8+2nd+Year+Student+%40+Van+Lang+University+(VLU);%F0%9F%8C%B1+Sinh+vi%C3%AAn+n%C4%83m+2+%C4%90%E1%BA%A1i+h%E1%BB%8Dc+V%C4%83n+Lang;%F0%9F%8E%A7+Coding+under+midnight+lo-fi+frequencies;%F0%9F%9A%80+Always+learning,+building,+and+evolving." alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Glowing HUD Status Badges -->
+  <!-- Clean Floating Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/NODE-VAN%20LANG%20UNIVERSITY-7928CA?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0a0c10" />
-    <img src="https://img.shields.io/badge/PHASE-YEAR%2002%20(SOPHOMORE)-0070F3?style=for-the-badge&logo=launchpad&logoColor=white&labelColor=0a0c10" />
-    <img src="https://img.shields.io/badge/ENERGY-100%25%20OVERCLOCKED-00F5D4?style=for-the-badge&logo=supercollider&logoColor=black&labelColor=0a0c10" />
+    <img src="https://img.shields.io/badge/University-Van%20Lang%20University-c3002f?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Class-Sophomore%20(Year%2002)-0070f3?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Focus-Exploring%20Tech-00f5d4?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0d1117" />
   </p>
 
 </div>
 
 ---
 
-### 🧬 `NEURAL_NEXUS // BIOGRAPHY & MATRIX`
+<table border="0" style="width: 100%; border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <!-- Cột trái: Giới thiệu cô đọng, tinh tế -->
+    <td width="55%" valign="top" style="border: none; padding-right: 20px;">
+      <h3>☕ <code>const andrew = new Explorer();</code></h3>
+      <p>
+        Xin chào! Mình là <b>Nguyễn Anh Tuấn (Andrew)</b> — sinh viên năm 2 tại trường <b>Đại học Văn Lang (VLU)</b>.
+      </p>
+      <p>
+        Mình đang trong giai đoạn xây dựng nền tảng tư duy phần mềm vững chắc, rèn luyện kỹ năng và khám phá những chân trời công nghệ mới.
+      </p>
+      <p>
+        🌱 <b>Tâm niệm:</b> <i>"Hành trình vạn dặm khởi đầu từ một dòng code chỉn chu."</i>
+      </p>
+      <p>
+        🎧 <b>Góc thư giãn:</b> Lo-fi hip-hop, ambient synthwave và cà phê cold brew đậm vị.
+      </p>
+    </td>
+    <!-- Cột phải: GIF Pixel Art Coder Anime Midnight Vibe -->
+    <td width="45%" align="center" valign="middle" style="border: none;">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.5);" alt="Cozy Coding GIF" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Thống Kê Hoạt Động (Activity Metrics)
 
 <div align="center">
 
-```typescript
-/* ================= [ IDENTITY MATRIX ] ================= */
-const ENTITY = {
-    codename       : "Andrew",
-    legalName      : "Nguyễn Anh Tuấn",
-    academicBase   : "Van Lang University (VLU) • Sophomore",
-    coordinates    : "Saigon, VN [10.8231° N, 106.6297° E]",
-    coreDirectives : [
-        "Master foundational computer science & design patterns",
-        "Explore bleeding-edge frameworks & intelligent tools",
-        "Maintain infinite curiosity and relentless execution"
-    ],
-    fuelSource     : "Cold Brew Coffee ☕ + Lo-Fi Frequencies 🎧"
-};
-```
+  <!-- GitHub Streak Stats chuẩn nét -->
+  <img src="https://streak-stats.demolab.com?user=andrewng227&theme=tokyonight&hide_border=true&background=0d1117&ring=64FFDA&fire=00E5FF&currStreakLabel=64FFDA&sideNums=C9D1D9&dates=8B949E" width="88%" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-### 🛰️ `REAL-TIME TELEMETRY & ACTIVITY RADAR`
-
-<div align="center">
-
-  <!-- Dynamic Cyber Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=andrewng227&theme=radical&hide_border=true&background=0a0c10&ring=00F5D4&fire=7928CA&currStreakLabel=00F5D4&sideNums=0070F3&dates=a0aec0" width="88%" alt="Telemetry Stats" />
-
-  <br/><br/>
-
-  <!-- Dynamic Cyber Trophies Grid -->
-  <img src="https://github-profile-trophy.vercel.app/?username=andrewng227&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=4" alt="Andrew's Trophies" />
-
-</div>
-
----
-
-### 🎛️ `AUDIO_VISUALIZER // DEEP_FOCUS_STATION`
+### 🎧 Giờ Nghỉ Thư Giãn (Midnight Focus)
 
 <div align="center">
 
 ```text
-  ▂ ▃ ▅ ▆ ▇ █ ▉ ▊ ▋ ▌ ▍ ▎ ▏  [ AUDIO STREAM: SYNCHRONIZED ]  ▏ ▎ ▍ ▌ ▋ ▊ ▉ █ ▇ ▆ ▅ ▃ ▂
-  
-  ▶  TRACK    : Synthwave Cyberpunk / Midnight Coding Session
-  ⏳  PROGRESS : 03:24 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━●── 04:15
-  ⚡  STATUS   : 100% Focus Level  |  BPM: 120  |  Mode: High-Velocity Dev
+ ♫ █ ▄ █ ▄ ▄ █ ▌ Now Playing: "Lofi Beats to Code/Relax to" ▌ █ ▄ █ ▄ ▄ █ ♫
+ [02:15 ━━━━━━━━━━━━━━━━━━━━●─────── 03:45]
+ ☕ Cup: 100% Cold Brew | ⚡ Energy: Peak Focus | 🌙 Vibe: Midnight Studio
 ```
 
-</div>
-
----
-
-### 💬 `TRANSMISSION_OF_THE_DAY`
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="90%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Glowing Particle Bottom Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24,30&height=100&section=footer" width="100%"/>
+  <!-- Waving Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=100&section=footer" width="100%"/>
 </div>
