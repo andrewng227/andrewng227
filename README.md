@@ -3,9 +3,9 @@
   <!-- Header Banner Gradient -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Nguyễn%20Anh%20Tuấn%20⚡&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Andrew%20Nguyen%20•%20Sophomore%20@%20Van%20Lang%20University%20(VLU)&descFontSize=17&descAlignY=62" width="100%"/>
 
-  <!-- Typing SVG -->
+  <!-- Typing SVG Alternating English & Vietnamese -->
   <a href="https://github.com/andrewng227">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=650&lines=2nd+Year+Student+at+Van+Lang+University;Passionate+about+Exploring+New+Technologies;Building+foundations,+crafting+curiosity;Turning+ideas+into+clean+code+every+day." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1200&color=64FFDA&center=true&vCenter=true&width=650&lines=2nd+Year+Student+at+Van+Lang+University+(VLU);Sinh+vi%C3%AAn+n%C4%83m+2+%C4%90%E1%BA%A1i+h%E1%BB%8Dc+V%C4%83n+Lang+(VLU);Passionate+about+Exploring+New+Technologies;Kh%C3%A1m+ph%C3%A1+v%C3%A0+chinh+ph%E1%BB%A5c+c%C3%A1c+c%C3%B4ng+ngh%E1%BB%87+m%E1%BB%9Bi;Building+foundations,+crafting+curiosity;R%C3%A8n+luy%E1%BB%87n+t%C6%B0+duy+v%C3%A0+n%E1%BB%81n+t%E1%BA%A3ng+l%E1%BA%ADp+tr%C3%ACnh+v%E1%BB%AFng+ch%E1%BA%AFc;Turning+ideas+into+clean+code+every+day.;Bi%E1%BA%BFn+%C3%BD+t%C6%B0%E1%BB%9Fng+th%C3%A0nh+d%C3%B2ng+code+ch%E1%BA%A5t+l%C6%B0%E1%BB%A3ng." alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -18,36 +18,39 @@
 
 ---
 
-### 🧬 `System.whoami`
+### 💫 About Me // Giới Thiệu Bản Thân
 
-```typescript
-const developer = {
-    fullName: "Nguyễn Anh Tuấn",
-    englishName: "Andrew Nguyen",
-    academicStatus: "Sophomore (Sinh viên năm 2)",
-    institution: "Van Lang University (Đại học Văn Lang - VLU)",
-    currentJourney: "Khám phá các hướng đi công nghệ & xây dựng nền tảng vững chắc",
-    passions: [
-        "Công nghệ & Lập trình",
-        "Tư duy giải quyết vấn đề",
-        "Âm nhạc thư giãn 🎧",
-        "Cold brew coffee ☕"
-    ],
-    motto: "Học hỏi không ngừng - Từng bước chinh phục những chân trời mới."
-};
-```
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🇻🇳 Tiếng Việt</h4>
+      <p>Xin chào, mình là <b>Nguyễn Anh Tuấn (Andrew)</b> — Sinh viên năm 2 tại trường <b>Đại học Văn Lang (VLU)</b>.</p>
+      <ul>
+        <li>🌱 <b>Hành trình:</b> Đang tích cực rèn luyện nền tảng tư duy lập trình và khám phá các hướng đi công nghệ mới.</li>
+        <li>💡 <b>Sở thích:</b> Tìm tòi công nghệ, nghe nhạc chill 🎧 và cà phê cold brew ☕.</li>
+        <li>✨ <b>Châm ngôn:</b> <i>"Học hỏi không ngừng - Từng bước chinh phục những chân trời mới."</i></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🇬🇧 English</h4>
+      <p>Hi there, I'm <b>Andrew (Nguyen Anh Tuan)</b> — a 2nd-year student at <b>Van Lang University (VLU)</b>.</p>
+      <ul>
+        <li>🌱 <b>Journey:</b> Actively strengthening coding fundamentals and exploring modern technology domains.</li>
+        <li>💡 <b>Interests:</b> Tech exploration, relaxing to lo-fi beats 🎧, and savoring cold brew coffee ☕.</li>
+        <li>✨ <b>Motto:</b> <i>"Continuous learning — Step by step conquering new horizons."</i></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="90%"/>
+</div>
 
 ---
 
-### 🎯 Mục Tiêu & Hành Trình Năm 2 (Year 2 Quest Log)
-
-- 🔍 **Khám phá định hướng:** Trải nghiệm đa dạng các mảng (Web, Phần mềm, Hệ thống, Trí tuệ nhân tạo...) để chọn ra chuyên ngành yêu thích nhất.
-- 🧱 **Xây nền tảng vững chắc:** Nắm vững cấu trúc dữ liệu, giải thuật và tư duy thiết kế hệ thống.
-- 🚀 **Bắt tay vào thực hành:** Tham gia các dự án nhỏ và rèn luyện kỹ năng thực chiến cùng GitHub.
-
----
-
-### 📊 Thống Kê Hoạt Động (GitHub Stats)
+### 📊 Thống Kê Hoạt Động // GitHub Analytics
 
 <div align="center">
   <table border="0" style="border-collapse: collapse; border: none;">
@@ -60,26 +63,6 @@ const developer = {
       </td>
     </tr>
   </table>
-</div>
-
----
-
-### 🐍 Nhật Ký Đóng Góp (Contribution Snake)
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrewng227/andrewng227/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrewng227/andrewng227/output/github-contribution-grid-snake.svg">
-    <img alt="Snake Arena Animation" src="https://raw.githubusercontent.com/andrewng227/andrewng227/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-### 💬 Câu Nói Truyền Cảm Hứng
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="90%"/>
 </div>
 
 ---
