@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Aesthetic Header Animation Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=230&section=header&text=Nguy%E1%BB%85n%20Anh%20Tu%E1%BA%A5n%20%E2%9C%A8&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Andrew%20Nguyen%20%E2%80%A2%20Sophomore%20%40%20Van%20Lang%20University&descFontSize=16&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=230&section=header&text=Nguy%E1%BB%85n%20Anh%20Tu%E1%BA%A5n%20%E2%9C%A8&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Andrew%20Nguyen%20%E2%80%A2%20Sophomore%20%40%20Van%20Lang%20University&descFontSize=16&descAlignY=60" width="100%"/>
 
   <!-- Aesthetic JetBrains Mono Typing -->
   <a href="https://github.com/andrewng227">
@@ -36,7 +36,7 @@
         🌱 <b>Tâm niệm:</b> <i>"Hành trình vạn dặm khởi đầu từ một dòng code chỉn chu."</i>
       </p>
       <p>
-        🎧 <b>Góc thư giãn:</b> Lo-fi hip-hop và trà vải.
+        🎧 <b>Góc thư giãn:</b> Lo-fi hip-hop, ambient synthwave và cà phê cold brew đậm vị.
       </p>
     </td>
     <!-- Cột phải: GIF Pixel Art Coder Anime Midnight Vibe -->
@@ -59,12 +59,22 @@
 
 ---
 
-### 🎧 Giờ Nghỉ Thư Giãn (Midnight Focus)
+### 🎧 Giờ Nghỉ Thư Giãn // Midnight Coding Playlist
 
 <div align="center">
 
+  <!-- Clickable Interactive Spotify Lo-fi Music Card -->
+  <a href="https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-PLAY_MIDNIGHT_LO--FI_BEATS_%E2%96%B6-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d1117" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-LOFI_GIRL_RADIO_%E2%96%B6-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117" />
+  </a>
+
+  <br/><br/>
+
 ```text
- ♫ █ ▄ █ ▄ ▄ █ ▌ Now Playing: "Lofi Beats to Code/Relax to" ▌ █ ▄ █ ▄ ▄ █ ♫
+ ♫ █ ▄ █ ▄ ▄ █ ▌  [ BẤM NÚT TRÊN ĐỂ PHÁT NHẠC SPOTIFY / YOUTUBE ]  ▌ █ ▄ █ ▄ ▄ █ ♫
  [02:15 ━━━━━━━━━━━━━━━━━━━━●─────── 03:45]
  ☕ Cup: 100% Cold Brew | ⚡ Energy: Peak Focus | 🌙 Vibe: Midnight Studio
 ```
