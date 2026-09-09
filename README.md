@@ -36,7 +36,7 @@
         🌱 <b>Tâm niệm:</b> <i>"Hành trình vạn dặm khởi đầu từ một dòng code chỉn chu."</i>
       </p>
       <p>
-        🎧 <b>Góc thư giãn:</b> Lo-fi hip-hop, ambient synthwave và cà phê cold brew đậm vị.
+        🎧 <b>Góc thư giãn:</b> Lo-fi hip-hop và trà vải.
       </p>
     </td>
     <!-- Cột phải: GIF Pixel Art Coder Anime Midnight Vibe -->
