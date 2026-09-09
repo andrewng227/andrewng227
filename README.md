@@ -1,91 +1,91 @@
 <div align="center">
 
-```text
-  ▄████████ █▄    ▄  ████████▄     ▄████████    ▄████████  ▄█   █▄ 
- ▄███    ███ ███   ██  ███   ▀███   ███    ███   ███    ███ ███   ███ 
- ███    █▀  ███▀██▄███ ███    ███   ███    ███   ███    █▀  ███▀▀▀███ 
- ███        ███  ▀███  ███    ███  ▄███▄▄▄▄██▀  ▄███▄▄▄     ███   ███ 
- ███        ███   ███  ███    ███ ▀▀███▀▀▀▀▀   ▀▀███▀▀▀     ███   ███ 
- ███    █▄  ███   ███  ███    ███ ▀███████████   ███    █▄  ███   ███ 
- ▀████████▀ █▀    ▀█  ████████▀     ███    ███   ██████████ █▀     ▀█ 
-                                    ███    ███                        
-              >>> SYSTEM BOOT // ANDREW_OS v2.26 <<<
-```
+  <!-- Holographic Futuristic Dynamic Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,12,24,30&height=220&section=header&text=✦%20ANDREW%20NGUYEN%20✦&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Nguyễn%20Anh%20Tuấn%20•%20Sophomore%20@%20Van%20Lang%20University&descFontSize=15&descAlignY=60" width="100%"/>
 
-<!-- Dynamic Cyber Terminal Typing -->
-<a href="https://github.com/andrewng227">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=1000&color=39FF14&center=true&vCenter=true&width=680&lines=%3E+INITIALIZING+CORE+MODULES...+%5BOK%5D;%3E+AUTHENTICATED%3A+Nguyen+Anh+Tuan+(Andrew);%3E+NODE%3A+Van+Lang+University+(VLU)+-+Year+2;%3E+MISSION%3A+Exploring+Emerging+Technologies;%3E+STATUS%3A+Compiling+Knowledge+%26+Building+Future." alt="Terminal Output" />
-</a>
+  <!-- High-velocity Multi-layer Typing SVG -->
+  <a href="https://github.com/andrewng227">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=19&duration=2400&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=%E2%96%B6+SYSTEM+ONLINE%3A+Andrew+Nguyen+(Nguy%E1%BB%85n+Anh+Tu%E1%BA%A5n);%E2%96%B6+ACADEMIC_NODE%3A+Van+Lang+University+(VLU)+-+Year+02;%E2%96%B6+EXPLORING%3A+Software+Architecture+%26+Next-Gen+Tech;%E2%96%B6+CORE_DRIVE%3A+Transforming+Curiosity+Into+Impact." alt="Holographic Typing" />
+  </a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SYS_STATUS-ONLINE-39FF14?style=flat-square&logo=gnubash&logoColor=black&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/SECURITY-VLU_AUTHORIZED-00E5FF?style=flat-square&logo=matrix&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/MEM_USAGE-32%25%20OPTIMAL-FF0055?style=flat-square&logo=speedtest&logoColor=white&labelColor=0d1117" />
-</p>
+  <br/><br/>
+
+  <!-- Glowing HUD Status Badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/NODE-VAN%20LANG%20UNIVERSITY-7928CA?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0a0c10" />
+    <img src="https://img.shields.io/badge/PHASE-YEAR%2002%20(SOPHOMORE)-0070F3?style=for-the-badge&logo=launchpad&logoColor=white&labelColor=0a0c10" />
+    <img src="https://img.shields.io/badge/ENERGY-100%25%20OVERCLOCKED-00F5D4?style=for-the-badge&logo=supercollider&logoColor=black&labelColor=0a0c10" />
+  </p>
 
 </div>
 
 ---
 
-### 🖥️ `TERMINAL // SYSTEM_DIAGNOSTICS`
-
-```bash
-[root@ANDREW-OS ~]# cat user_info.sys
-
-IDENTIFIER    : Nguyễn Anh Tuấn (Andrew Nguyen)
-CLEARANCE     : Sophomore (Sinh viên năm 2) @ Đại học Văn Lang (VLU)
-SPECIALTY     : General Technology Exploration & System Design
-LOCATION      : Saigon, VN [Lat 10.8231, Lon 106.6297]
-CURRENT_TASK  : Crafting code architecture & continuous self-upgrade
-COFFEE_INJECT : 100% Cold Brew Synchronized
-```
-
----
-
-### 🕹️ `COMMAND_CENTER // INTERACTIVE_MODULES`
-
-> *Click vào các giao thức bên dưới để giải mã dữ liệu:*
-
-<details>
-  <summary><b>📡 [PROTOCOL_01: ACADEMIC_DATABASE // VLU]</b></summary>
-  <br/>
-  <blockquote>
-    <b>🎓 TRƯỜNG ĐẠI HỌC VĂN LANG (VAN LANG UNIVERSITY)</b><br/>
-    <ul>
-      <li><b>Giai đoạn:</b> Năm thứ 2 — Đang trong chu kỳ tích lũy kiến thức cốt lõi và tư duy phần mềm.</li>
-      <li><b>Định hướng:</b> Tiếp cận đa chiều các công nghệ hiện đại trước khi chọn chuyên ngành mũi nhọn.</li>
-    </ul>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>⚡ [PROTOCOL_02: OPERATING_PHILOSOPHY]</b></summary>
-  <br/>
-  <blockquote>
-    <b>💡 NGUYÊN TẮC LÀM VIỆC:</b><br/>
-    <code>"Viết code không chỉ để chạy được, mà để tạo ra giá trị và giải quyết bài toán thực tế."</code><br/>
-    Không ngừng tò mò, kiên trì mài giũa kỹ năng mỗi ngày.
-  </blockquote>
-</details>
-
----
-
-### 🛰️ `TELEMETRY // GITHUB_STREAM`
+### 🧬 `NEURAL_NEXUS // BIOGRAPHY & MATRIX`
 
 <div align="center">
 
-  <!-- Dynamic Cyber Activity Streak -->
-  <img src="https://streak-stats.demolab.com?user=andrewng227&theme=dark&hide_border=true&background=0d1117&ring=39FF14&fire=00E5FF&currStreakLabel=39FF14" width="85%" alt="Telemetry Stats" />
+```typescript
+/* ================= [ IDENTITY MATRIX ] ================= */
+const ENTITY = {
+    codename       : "Andrew",
+    legalName      : "Nguyễn Anh Tuấn",
+    academicBase   : "Van Lang University (VLU) • Sophomore",
+    coordinates    : "Saigon, VN [10.8231° N, 106.6297° E]",
+    coreDirectives : [
+        "Master foundational computer science & design patterns",
+        "Explore bleeding-edge frameworks & intelligent tools",
+        "Maintain infinite curiosity and relentless execution"
+    ],
+    fuelSource     : "Cold Brew Coffee ☕ + Lo-Fi Frequencies 🎧"
+};
+```
 
 </div>
 
 ---
 
+### 🛰️ `REAL-TIME TELEMETRY & ACTIVITY RADAR`
+
+<div align="center">
+
+  <!-- Dynamic Cyber Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=andrewng227&theme=radical&hide_border=true&background=0a0c10&ring=00F5D4&fire=7928CA&currStreakLabel=00F5D4&sideNums=0070F3&dates=a0aec0" width="88%" alt="Telemetry Stats" />
+
+  <br/><br/>
+
+  <!-- Dynamic Cyber Trophies Grid -->
+  <img src="https://github-profile-trophy.vercel.app/?username=andrewng227&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=4" alt="Andrew's Trophies" />
+
+</div>
+
+---
+
+### 🎛️ `AUDIO_VISUALIZER // DEEP_FOCUS_STATION`
+
 <div align="center">
 
 ```text
-[ END OF TRANSMISSION // ALL SYSTEMS NOMINAL ]
-############################################## 100%
+  ▂ ▃ ▅ ▆ ▇ █ ▉ ▊ ▋ ▌ ▍ ▎ ▏  [ AUDIO STREAM: SYNCHRONIZED ]  ▏ ▎ ▍ ▌ ▋ ▊ ▉ █ ▇ ▆ ▅ ▃ ▂
+  
+  ▶  TRACK    : Synthwave Cyberpunk / Midnight Coding Session
+  ⏳  PROGRESS : 03:24 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━●── 04:15
+  ⚡  STATUS   : 100% Focus Level  |  BPM: 120  |  Mode: High-Velocity Dev
 ```
 
+</div>
+
+---
+
+### 💬 `TRANSMISSION_OF_THE_DAY`
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="90%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Glowing Particle Bottom Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24,30&height=100&section=footer" width="100%"/>
 </div>
