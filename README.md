@@ -19,49 +19,48 @@
 
 </div>
 
-<br/>
-
 ---
 
-### 🔮 `CORE.IDENTITY`
+### ⚡ `ABOUT // THE JOURNEY`
 
 <div align="center">
 
-```json
-{
-  "developer": "Nguyễn Anh Tuấn (Andrew)",
-  "education": "Van Lang University (VLU) — Year 2",
-  "vision": "Building solid foundations & exploring emerging technologies",
-  "interests": ["Software Architecture", "Creative Coding", "Lo-Fi Beats 🎧", "Cold Brew ☕"],
-  "motto": "Stay curious. Keep building. Never stop learning."
-}
+| 🌌 **CORE FOCUS** | 🎧 **ATMOSPHERE & VIBE** |
+| :--- | :--- |
+| 🎓 **Student:** 2nd Year @ Van Lang University<br/>🚀 **Mindset:** Grinding fundamentals & exploring modern software architectures.<br/>✨ **Philosophy:** *"Stay curious. Keep building. Never stop learning."* | 🎵 **Soundtrack:** Lo-Fi Beats & Ambient Synthwave<br/>☕ **Fuel:** Cold brew coffee & relentless drive<br/>💬 **Mục tiêu:** Từng bước làm chủ công nghệ và biến ý tưởng thành sản phẩm thực tế. |
+
+</div>
+
+---
+
+### 📊 `GITHUB.ACTIVITY`
+
+<div align="center">
+
+  <!-- GitHub Streak Stats (Chạy siêu ổn định 100%) -->
+  <img src="https://streak-stats.demolab.com?user=andrewng227&theme=radical&hide_border=true&background=0d1117&ring=00F5D4&fire=7928CA&currStreakLabel=00F5D4" width="85%" alt="Andrew's GitHub Streak" />
+
+  <br/><br/>
+
+  <!-- Dynamic Trophy Badges (Cúp danh dự cho Coder) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=andrewng227&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=4" alt="Andrew's Trophies" />
+
+</div>
+
+---
+
+### 🎧 `CHILL_ROOM // CURRENT_VIBE`
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│  ▶  NOW PLAYING: Lofi Hip Hop Radio - Beats to Code/Relax  │
+│  ⏮   ⏸   ⏭   02:45 ━━━━━━━━━━━━━━━━━━━━●─── 03:50       │
+│  Volume: 100% 🔊  |  Mode: Deep Focus ⚡                │
+└──────────────────────────────────────────────────────────┘
 ```
 
-</div>
-
----
-
-### ⚡ `DYNAMIC_STATS`
-
-<div align="center">
-  <table border="0" style="background: transparent; border-collapse: collapse; border: none;">
-    <tr style="border: none;">
-      <td style="border: none;" align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=andrewng227&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=7928ca&text_color=a0aec0&ring_color=0070f3" alt="Andrew's Stats" width="100%" />
-      </td>
-      <td style="border: none;" align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrewng227&theme=radical&hide_border=true&background=0d1117&ring=00f5d4&fire=7928ca&currStreakLabel=00f5d4&sideNums=a0aec0&dates=718096" alt="Andrew's Streak" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 🪐 `DAILY.FREQUENCY`
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="92%"/>
 </div>
 
 <br/>
