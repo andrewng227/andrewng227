@@ -1,17 +1,25 @@
 <div align="center">
 
-  <table border="0" style="width: 100%; border-collapse: collapse; border: none; background: transparent;">
+  <!-- Seamless Unified Banner with Spider-Man inside the Gradient -->
+  <table border="0" style="width: 100%; border-collapse: collapse; border: none; border-radius: 18px; overflow: hidden; background: linear-gradient(135deg, #ffb703 0%, #e63946 35%, #1d3557 70%, #00e5ff 100%); box-shadow: 0 10px 30px rgba(230, 57, 70, 0.35);">
     <tr style="border: none;">
-      <td width="30%" align="center" valign="middle" style="border: none;">
-        <!-- Spider-Man đứng cực ngầu bên trong khung tên -->
-        <img src="https://media.giphy.com/media/xTiTnIByhw6hCJi58Y/giphy.gif" width="160" style="border-radius: 12px; filter: drop-shadow(0 0 15px rgba(230, 57, 70, 0.6));" alt="Spider-Man Giftober" />
+      <!-- Spider-Man GIF nằm trực tiếp bên trong dải màu -->
+      <td width="28%" align="center" valign="middle" style="border: none; padding: 18px 10px;">
+        <img src="https://media.giphy.com/media/xTiTnIByhw6hCJi58Y/giphy.gif" width="135" style="border-radius: 14px; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.6));" alt="Spider-Man" />
       </td>
-      <td width="70%" align="left" valign="middle" style="border: none;">
-        <!-- Banner Tên với Font chữ chuẩn hỗ trợ trọn vẹn tiếng Việt không bị lỗi dấu -->
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffb703,35:e63946,70:1d3557,100:00e5ff&height=180&section=header&text=NGUYỄN%20ANH%20TUẤN&fontSize=34&fontColor=ffffff&fontAlign=center&fontAlignY=38&desc=Spider-Man%3A%20Brand%20New%20Day%20•%20Sophomore%20@%20Van%20Lang%20University&descFontSize=15&descAlignY=62" width="100%"/>
+      <!-- Tên & Thông tin cùng nằm chung trong dải màu -->
+      <td width="72%" align="left" valign="middle" style="border: none; padding: 20px 25px 20px 0;">
+        <h1 style="color: #ffffff; margin: 0 0 8px 0; font-family: 'Segoe UI', Arial, sans-serif; font-size: 32px; font-weight: 800; text-shadow: 0 2px 10px rgba(0,0,0,0.5);">
+          ✦ NGUYỄN ANH TUẤN ✦
+        </h1>
+        <p style="color: #f0f6fc; margin: 0; font-family: 'Segoe UI', Arial, sans-serif; font-size: 15px; font-weight: 600; text-shadow: 0 1px 6px rgba(0,0,0,0.6); opacity: 0.95;">
+          Spider-Man: Brand New Day • Sophomore @ Van Lang University
+        </p>
       </td>
     </tr>
   </table>
+
+  <br/>
 
   <!-- Brand New Day Typing Animation SVG -->
   <a href="https://github.com/andrewng227">
