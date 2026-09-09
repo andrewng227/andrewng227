@@ -33,7 +33,7 @@
         Mình đang trong giai đoạn xây dựng nền tảng tư duy phần mềm vững chắc, rèn luyện kỹ năng và khám phá những chân trời công nghệ mới.
       </p>
       <p>
-        🎧 <b>Góc thư giãn:</b> Lo-fi hip-hop, ambient synthwave và cà phê cold brew đậm vị.
+        🎧 <b>Góc thư giãn:</b> Lo-fi hip-hop và trà vải.
       </p>
     </td>
     <!-- Cột phải: GIF Pixel Art Coder Anime Midnight Vibe -->
