@@ -1,20 +1,55 @@
 <div align="center">
 
-  <!-- Aesthetic Header Animation Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=230&section=header&text=Nguy%E1%BB%85n%20Anh%20Tu%E1%BA%A5n%20%E2%9C%A8&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Andrew%20Nguyen%20%E2%80%A2%20Sophomore%20%40%20Van%20Lang%20University&descFontSize=16&descAlignY=60" width="100%"/>
+```text
+                 \       |       /
+                  \      |      /
+             \     \     |     /     /
+              \     \    |    /     /
+               \ .---'   |   '---. /
+             ---'        |        '---
+          .---'  \       |       /  '---.
+        .'        \      |      /        '.
+       /           \     |     /           \
+      /             \    |    /             \
+     /               .---'---.               \
+    |             .-'         '-.             |
+    |          .-'               '-.          |
+    |       .-'                     '-.       |
+  --+-------+---  N G U Y Ễ N  -------+-------+--
+  --+-------+---  A N H   T U Ấ N  ---+-------+--
+    |       '-.                     .-'       |
+    |          '-.               .-'          |
+    |             '-.         .-'             |
+     \               '---.---'               /
+      \             /    |    \             /
+       \           /     |     \           /
+        '.        /      |      \        .'
+          '---.  /       |       \  .---'
+             ---.        |        .---
+               / '---.   |   .---' \
+              /     /    |    \     \
+             /     /     |     \     \
+                  /      |      \
+                 /       |       \
+               
+           🕸️ SPIDER-VERSE // SECTOR VLU 🕸️
+```
 
-  <!-- Aesthetic JetBrains Mono Typing -->
+  <!-- Spider-Verse Dynamic Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e63946,40:111318,70:00e5ff,100:e63946&height=220&section=header&text=✦%20ANDREW%20NGUYEN%20✦&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Sophomore%20@%20Van%20Lang%20University%20(VLU)&descFontSize=16&descAlignY=60" width="100%"/>
+
+  <!-- Spider-Verse Typing Animation SVG -->
   <a href="https://github.com/andrewng227">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=650&lines=%E2%98%95+Brewing+code+with+curiosity+%26+passion;%E2%9C%A8+2nd+Year+Student+%40+Van+Lang+University+(VLU);%F0%9F%8C%B1+Sinh+vi%C3%AAn+n%C4%83m+2+%C4%90%E1%BA%A1i+h%E1%BB%8Dc+V%C4%83n+Lang;%F0%9F%8E%A7+Coding+under+midnight+lo-fi+frequencies;%F0%9F%9A%80+Always+learning,+building,+and+evolving." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=19&duration=2800&pause=1000&color=FF0055&center=true&vCenter=true&width=680&lines=%F0%9F%95%B8%EF%B8%8F+Your+Friendly+Neighborhood+Developer;%E2%9C%A7+Sinh+vi%C3%AAn+n%C4%83m+2+%C4%90%E1%BA%A1i+h%E1%BB%8Dc+V%C4%83n+Lang+(VLU);%F0%9F%95%B7%EF%B8%8F+Weaving+ideas+into+scalable+code;%E2%9A%A1+With+great+curiosity+comes+great+code." alt="Spider-Man Typing" />
   </a>
 
   <br/><br/>
 
-  <!-- Clean Floating Badges -->
+  <!-- Spider-Man Themed Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/University-Van%20Lang%20University-c3002f?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=0d1117" />
-    <img src="https://img.shields.io/badge/Class-Sophomore%20(Year%2002)-0070f3?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117" />
-    <img src="https://img.shields.io/badge/Focus-Exploring%20Tech-00f5d4?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/SUIT-SPIDER_VERSE-E63946?style=for-the-badge&logo=marvel&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/CAMPUS-VAN%20LANG%20UNIVERSITY-00E5FF?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/ROLE-WEB%20SLINGER%20(YR%2002)-FF0055?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0d1117" />
   </p>
 
 </div>
@@ -23,40 +58,40 @@
 
 <table border="0" style="width: 100%; border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <!-- Cột trái: Giới thiệu cô đọng, tinh tế -->
+    <!-- Cột trái: Thông tin phong cách Spider-Man / Web Slinger -->
     <td width="55%" valign="top" style="border: none; padding-right: 20px;">
-      <h3>☕ <code>const andrew = new Explorer();</code></h3>
+      <h3>🕷️ <code>SpiderSense.detect(Developer);</code></h3>
       <p>
         Xin chào! Mình là <b>Nguyễn Anh Tuấn (Andrew)</b> — sinh viên năm 2 tại trường <b>Đại học Văn Lang (VLU)</b>.
       </p>
       <p>
-        Mình đang trong giai đoạn xây dựng nền tảng tư duy phần mềm vững chắc, rèn luyện kỹ năng và khám phá những chân trời công nghệ mới.
+        🕸️ <b>Sứ mệnh:</b> Đang "dệt mạng lưới" kiến thức nền tảng vững chắc, khám phá công nghệ mới và tôi luyện kỹ năng giải quyết vấn đề mỗi ngày.
       </p>
       <p>
-        🎧 <b>Góc thư giãn:</b> Lo-fi hip-hop và trà vải.
+        ⚡ <b>Phương châm:</b> <i>"With great curiosity comes great code."</i>
       </p>
     </td>
-    <!-- Cột phải: GIF Pixel Art Coder Anime Midnight Vibe -->
+    <!-- Cột phải: GIF Spider-Man Pixel Art Swing cực ngầu -->
     <td width="45%" align="center" valign="middle" style="border: none;">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.5);" alt="Cozy Coding GIF" />
+      <img src="https://media.giphy.com/media/BWD3CtcudWL28/giphy.gif" width="100%" style="border-radius: 14px; box-shadow: 0 8px 25px rgba(230,57,70,0.4);" alt="Spider-Man GIF" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 Thống Kê Hoạt Động (Activity Metrics)
+### 🕸️ Spider-Telemetry // Hoạt Động GitHub
 
 <div align="center">
 
-  <!-- GitHub Streak Stats chuẩn nét -->
-  <img src="https://streak-stats.demolab.com?user=andrewng227&theme=tokyonight&hide_border=true&background=0d1117&ring=64FFDA&fire=00E5FF&currStreakLabel=64FFDA&sideNums=C9D1D9&dates=8B949E" width="88%" alt="GitHub Streak" />
+  <!-- GitHub Streak Stats phối màu Đỏ Nhện & Xanh Neon Spider-Verse -->
+  <img src="https://streak-stats.demolab.com?user=andrewng227&theme=radical&hide_border=true&background=0d1117&ring=FF0055&fire=00E5FF&currStreakLabel=FF0055&sideNums=00E5FF&dates=8B949E" width="88%" alt="Spider GitHub Streak" />
 
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Waving Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=100&section=footer" width="100%"/>
+  <!-- Waving Footer Đỏ Đen Spider-Verse -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e63946,50:00e5ff,100:e63946&height=100&section=footer" width="100%"/>
 </div>
