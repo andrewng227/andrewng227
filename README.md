@@ -43,20 +43,3 @@
   </tr>
 </table>
 
----
-
-### 📊 Thống Kê Hoạt Động (Activity Metrics)
-
-<div align="center">
-
-  <!-- GitHub Streak Stats chuẩn nét -->
-  <img src="https://streak-stats.demolab.com?user=andrewng227&theme=tokyonight&hide_border=true&background=0d1117&ring=64FFDA&fire=00E5FF&currStreakLabel=64FFDA&sideNums=C9D1D9&dates=8B949E" width="88%" alt="GitHub Streak" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Waving Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=100&section=footer" width="100%"/>
-</div>
